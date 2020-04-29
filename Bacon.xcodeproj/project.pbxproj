@@ -13,6 +13,8 @@
 		8015AEFC24578DE70046200E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8015AEFB24578DE70046200E /* Assets.xcassets */; };
 		8015AEFF24578DE70046200E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8015AEFE24578DE70046200E /* Preview Assets.xcassets */; };
 		8015AF0224578DE70046200E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8015AF0024578DE70046200E /* LaunchScreen.storyboard */; };
+		801D6F23245A1B8000A6AE33 /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 801D6F22245A1B8000A6AE33 /* Montserrat-Regular.ttf */; };
+		801D6F25245A1B8E00A6AE33 /* Montserrat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 801D6F24245A1B8D00A6AE33 /* Montserrat-Medium.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		8015AEFE24578DE70046200E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8015AF0124578DE70046200E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8015AF0324578DE70046200E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		801D6F22245A1B8000A6AE33 /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Regular.ttf"; sourceTree = "<group>"; };
+		801D6F24245A1B8D00A6AE33 /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Medium.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,7 @@
 				8015AEFB24578DE70046200E /* Assets.xcassets */,
 				8015AF0024578DE70046200E /* LaunchScreen.storyboard */,
 				8015AF0324578DE70046200E /* Info.plist */,
+				801D6F26245A1B9900A6AE33 /* Fonts */,
 				8015AEFD24578DE70046200E /* Preview Content */,
 			);
 			path = Bacon;
@@ -73,6 +78,15 @@
 				8015AEFE24578DE70046200E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		801D6F26245A1B9900A6AE33 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				801D6F24245A1B8D00A6AE33 /* Montserrat-Medium.ttf */,
+				801D6F22245A1B8000A6AE33 /* Montserrat-Regular.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -133,6 +147,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				801D6F23245A1B8000A6AE33 /* Montserrat-Regular.ttf in Resources */,
+				801D6F25245A1B8E00A6AE33 /* Montserrat-Medium.ttf in Resources */,
 				8015AF0224578DE70046200E /* LaunchScreen.storyboard in Resources */,
 				8015AEFF24578DE70046200E /* Preview Assets.xcassets in Resources */,
 				8015AEFC24578DE70046200E /* Assets.xcassets in Resources */,
