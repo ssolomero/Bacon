@@ -1,5 +1,5 @@
 # Bacon
-iOS 13 & Swift 5
+iOS 13 & Swift 5 --
 Sing home page of a Peer-to-Peer payment application. Only UI, no functionality. 
 
 # Purpose
